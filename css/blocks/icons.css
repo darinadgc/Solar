@@ -48,18 +48,18 @@ margin-right: auto;
 
 @media (max-width: 980px){
 	.icons {
-	margin: 60px auto 10px;
+	margin: 60px auto 10px;}
 }
 
 @media (max-width: 768px){
 	.icons__element {
-	flex-basis: 48%;
+	flex-basis: 48%;}
 }
 
 @media (max-width: 480px){
 	.icons {
 	flex-direction: column;
-	margin: 50px auto;
+	margin: 50px auto;}
 }
 
 .icons__element {
